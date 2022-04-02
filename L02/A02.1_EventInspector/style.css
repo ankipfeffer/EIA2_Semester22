@@ -1,0 +1,27 @@
+/*
+Aufgabe: A2.1 EventInspector
+Name: Ann-Kathrin Pfeffer
+Matrikel: 269354
+Datum: 02.04.22
+Quellen: me
+*/
+
+div {
+    border: solid;
+    width: 300px;
+    height: 400px;
+    float: left;
+}
+
+#div0 {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+span {
+    border: solid;
+    width: 210px;
+    height: 70px;
+    padding-left: 5px;
+    position: fixed;
+}
