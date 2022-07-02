@@ -208,11 +208,9 @@ namespace A11 {
 
         for (let tourist of humans) {
             tourist.move(1 / 200);
-            tourist.draw();
-            
+            tourist.draw();            
             // console.log("human drawn");
         }
-
         frame++;
     }
 
@@ -275,6 +273,4 @@ namespace A11 {
         }
         console.log("state2: " + _human.task);
     }
-
-
 }
