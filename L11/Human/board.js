@@ -24,6 +24,7 @@ var A11;
             A11.crc2.fill(board);
             A11.crc2.restore();
             A11.crc2.restore();
+            console.log("hallo");
         }
     }
     A11.Board = Board;
