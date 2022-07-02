@@ -93,8 +93,7 @@ namespace A11 {
         for (let i: number = 0; i < _nTowels; i++) {
             let position: Vector = new Vector(1000, 1050);
             let towel: Towel = new Towel(position);
-            towels.push(towel);
-            
+            towels.push(towel);     
         }
     }
 
