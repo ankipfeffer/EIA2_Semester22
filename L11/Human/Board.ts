@@ -27,9 +27,6 @@ namespace A11 {
             crc2.fill(board);
             crc2.restore();
             crc2.restore();
-            console.log("hallo");
         }
-        
-        
     }
 }
