@@ -28,7 +28,5 @@ namespace A11 {
             crc2.restore();
             crc2.restore();
         }
-
-
     }
 }
